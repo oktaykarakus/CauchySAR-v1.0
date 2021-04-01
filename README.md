@@ -67,11 +67,11 @@ https://doi.org/10.5523/bris.2ld1on1vrlzba2o05jd5jhdhd0.
 
 **** For the CPS Algorithm and its corresponding Matlab package please also refer to:
 
-[2] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with 
+[3] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with 
      Cauchy-Based Penalties" IEEE Transactions on Signal Processing, 2020.
 arXiv link 	: https://arxiv.org/abs/2003.04798
 
-[3] O Karakus, A Achim. (2020): "Cauchy Proximal Splitting (CPS)". 	
+[4] O Karakus, A Achim. (2020): "Cauchy Proximal Splitting (CPS)". 	
 https://doi.org/10.5523/bris.15y437loa26cr2nx8gnn3l4hzi 
 *****************************************************************************************************************
 
