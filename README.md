@@ -2,21 +2,25 @@
 *********************** CauchySAR_v1 - SAR Inverse Problem Solving via Cauchy Proximal Splitting ****************
 *****************************************************************************************************************
 
-This package includes the MATLAB source code for using the Cauchy proximal splitting (CPS) algorithm to solve a 
-number of SAR imaging inverse problems including: 
+This package includes the MATLAB source code for using the Cauchy proximal splitting (CPS) algorithm to solve a number of SAR imaging inverse problems including: 
+
 	1) Super-resolution
-	2) Image-Formation
-	3) De-speckling
-	4) Ship Wake Detection.
+	3) Image-Formation
+	4) De-speckling
+	5) Ship Wake Detection.
 
 Specifically, this package includes three folders:
+
 	1) images		: Stores images for the inverse problems examples.
 	2) examples		: Stores four scripts for each of the SAR inverse problems.
+	
 		2.1) CPS_ex1_superresolution.m
 		2.2) CPS_ex2_imageFormation.m
 		2.3) CPS_ex3_despeckling.m
 		2.4) CPS_ex4_shipWakeDetection.m
+		
 	3) source functions	: Stores the source functions below:
+	
 		3.1) ConfirmedHalflines.m        
 		3.2) norm_visual_SAR.m            
 		3.3) estimatePSF.m                
@@ -59,6 +63,7 @@ REFERENCE
 arXiv link 	: https://arxiv.org/abs/2005.00657
 
 **** For the CPS Algorithm and its corresponding Matlab package please also refer to:
+
 [2] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with 
      Cauchy-Based Penalties" IEEE Transactions on Signal Processing, 2020.
 arXiv link 	: https://arxiv.org/abs/2003.04798
