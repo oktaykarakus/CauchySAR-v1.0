@@ -62,6 +62,9 @@ REFERENCE
      with a Cauchy-based Penalty"  IEEE Transactions on Geoscience and Remote Sensing, 2020.
 arXiv link 	: https://arxiv.org/abs/2005.00657
 
+[2] O Karakus, A Achim. (2021): "CauchySAR_v1". 
+https://doi.org/10.5523/bris.2ld1on1vrlzba2o05jd5jhdhd0. 
+
 **** For the CPS Algorithm and its corresponding Matlab package please also refer to:
 
 [2] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with 
